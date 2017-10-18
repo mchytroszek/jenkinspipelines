@@ -1,0 +1,4 @@
+# Ignore .idea catalog
+.idea/
+
+jenkinspipelines.iml
