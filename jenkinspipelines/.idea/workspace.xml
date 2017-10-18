@@ -18,8 +18,8 @@
       <file leaf-file-name="Jenkinsfile.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="170">
+              <caret line="10" column="82" lean-forward="false" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -229,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508338707675</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Another fix to jenkinsfile">
+      <created>1508338768943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508338768943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -296,7 +303,8 @@
     <MESSAGE value="Changes in Jenkinsfile connected to pipeline" />
     <MESSAGE value="Fixes to Jenkinsfile" />
     <MESSAGE value="Changing webdriver in tests stage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing webdriver in tests stage" />
+    <MESSAGE value="Another fix to jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Another fix to jenkinsfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -367,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="170">
+          <caret line="10" column="82" lean-forward="false" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
           <folding />
         </state>
       </provider>
